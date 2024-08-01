@@ -20,21 +20,56 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
+### Programming Languages
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)
+![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl)
+
+### Frontend
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+
+### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=.net)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-05122A?style=flat&logo=ruby-on-rails)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
+
+### Others
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-05122A?style=flat&logo=api)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile-05122A?style=flat&logo=agile)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=jenkins)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 
 </div>
 
