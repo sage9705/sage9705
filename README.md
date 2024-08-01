@@ -15,6 +15,10 @@
 - 💡 Love to solve complex problems with elegant solutions
 - 🌍 Based in Accra, Ghana
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300">
+</div>
+
 <img src="https://raw.githubusercontent.com/godwinkumahor/godwinkumahor/main/horizontal-divider-gradient.gif">
 
 ## 🛠️ Tech Stack
@@ -38,6 +42,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Coding" width="300">
+</div>
+
 <img src="https://raw.githubusercontent.com/godwinkumahor/godwinkumahor/main/horizontal-divider-gradient.gif">
 
 ## 📊 GitHub Analytics
@@ -57,6 +65,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sage9705)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://your-portfolio-url.com)
 
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Bug Fight" width="300">
 </div>
 
 <img src="https://raw.githubusercontent.com/godwinkumahor/godwinkumahor/main/horizontal-divider-gradient.gif">
