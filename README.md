@@ -40,15 +40,6 @@
 
 <img src="https://raw.githubusercontent.com/sage9705/sage9705/main/horizontal-divider-gradient.gif">
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sage9705&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sage9705&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/sage9705/sage9705/main/horizontal-divider-gradient.gif">
-
 ## 🤝🏻 Let's Connect
 
 <div align="center">
