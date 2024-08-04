@@ -26,6 +26,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)
