@@ -39,7 +39,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=FFFFFF)
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" alt="Java" width="100"/>
 
 </div>
 
