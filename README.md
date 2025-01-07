@@ -8,6 +8,8 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+
+- 🎓 Creator of https://www.whisper.com.im
 - 🎓 Self taught developer
 - 🔭 Crafting robust systems and turning data into insights
 - 🌱 Always learning, currently diving deep into Machine Learning and AI
