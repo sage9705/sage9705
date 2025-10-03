@@ -10,7 +10,6 @@
 
 
 - 🎨 Creator of https://www.whisper.com.im
-- 🎓 Self taught developer
 - 🔭 Crafting robust systems and turning data into insights
 - 🌱 Always learning, currently diving deep into Machine Learning and AI
 - 👯 Looking to collaborate on innovative projects
