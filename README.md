@@ -14,7 +14,7 @@
 - 🌱 Always learning, currently diving deep into Machine Learning and AI
 - 👯 Looking to collaborate on innovative projects
 - 💡 Love to solve complex problems with elegant solutions
-- 🌍 Based in Accra, Ghana
+
 
 <img src="https://raw.githubusercontent.com/godwinkumahor/godwinkumahor/main/horizontal-divider-gradient.gif">
 
