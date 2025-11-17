@@ -9,7 +9,7 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🎨 Creator of https://www.whisper.com.im
+
 - 🔭 Crafting robust systems and turning data into insights
 - 🌱 Always learning, currently diving deep into Machine Learning and AI
 - 👯 Looking to collaborate on innovative projects
