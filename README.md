@@ -4,9 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/sage9705/sage9705/main/horizontal-divider-gradient.gif">
 
-## ???
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<img width="100%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 
@@ -17,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/godwinkumahor/godwinkumahor/main/horizontal-divider-gradient.gif">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
