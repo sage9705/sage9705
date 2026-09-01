@@ -4,16 +4,15 @@
 
 <img src="https://raw.githubusercontent.com/sage9705/sage9705/main/horizontal-divider-gradient.gif">
 
-## 👨‍💻 About Me
+## ???
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 
-- 🔭 Crafting robust systems and turning data into insights
-- 🌱 Always learning, currently diving deep into Machine Learning and AI
-- 👯 Looking to collaborate on innovative projects
-- 💡 Love to solve complex problems with elegant solutions
+- 🌱 Always learning, currently embedded systems
+
+
 
 
 <img src="https://raw.githubusercontent.com/godwinkumahor/godwinkumahor/main/horizontal-divider-gradient.gif">
@@ -43,7 +42,7 @@
 
 <img src="https://raw.githubusercontent.com/sage9705/sage9705/main/horizontal-divider-gradient.gif">
 
-## 🤝🏻 Let's Connect
+
 
 <div align="center">
 
