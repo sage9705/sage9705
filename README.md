@@ -44,12 +44,7 @@
 
 
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edem-kumahor-1995aa141)
-
-
-</div>
 
 <img src="https://raw.githubusercontent.com/godwinkumahor/godwinkumahor/main/horizontal-divider-gradient.gif">
 
