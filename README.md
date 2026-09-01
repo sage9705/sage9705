@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey+There!+👋;I'm+Godwin+Kumahor!;" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey+There!+;I'm+Godwin+Kumahor!;" alt="Title"></img>
 </div>
 
 <img src="https://raw.githubusercontent.com/sage9705/sage9705/main/horizontal-divider-gradient.gif">
@@ -42,7 +42,12 @@
 
 <img src="https://raw.githubusercontent.com/sage9705/sage9705/main/horizontal-divider-gradient.gif">
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edem-kumahor-1995aa141)
+
+
+</div>
 
 
 
@@ -50,5 +55,5 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Thanks+for+visiting!+🙏;Feel+free+to+connect!+😊" alt="Outro"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines;Feel+free+to+connect!" alt="Outro"></img>
 </div>
